@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fish River
+* source:	https://sketchfab.com/3d-models/fish-river-246797da90904ab2bc3e8577196e2b80
+* author:	Robi pabianto (https://sketchfab.com/robee.abiant)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fish River" (https://sketchfab.com/3d-models/fish-river-246797da90904ab2bc3e8577196e2b80) by Robi pabianto (https://sketchfab.com/robee.abiant) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
